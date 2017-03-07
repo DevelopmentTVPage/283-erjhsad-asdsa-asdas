@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "qweasdnbjkns"
+baseURL = "https:\/\/erjhsad.asdsa.asdas"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
